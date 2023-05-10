@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+@font-face {
+    font-family:Larsseit ;
+    src: url(../fonts/Larsseit-Bold.woff2) format(woff2), url(../fonts/Larsseit-Bold.woff) format(woff);
+    font-display: swap;
+    font-weight: 700;
+    font-style:normal;
+}
+.list-box{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 24;
+    line-height: 3;
+}
+.second-box{
+    font-family: Larsseit;
+    font-weight: lighter;
+    font-size: 12;
+}
+mark{
+    background-color: black;
+    color: white;
+}
+.first-box{
+    font-family: Larsseit;
+    text-shadow: 50 red;
+    background-color: blue;
+    margin: 100px 30px;    
+    padding-left: 20px;
+    padding-top: 10px;
+    width: 500px ;
+}
+.second-box{
+    font-family: Lato;
+    font-weight: bold;
+    background-color: purple;
+    margin:10px 100px ;
+    width: 100px;
+}
+header{
+    font-family:Larsseit;
+    margin: 10px 800px;
+    color: red;
+    text-shadow: 5px 5px black;
+    text-shadow: -5px -5px black;
+  
+}
